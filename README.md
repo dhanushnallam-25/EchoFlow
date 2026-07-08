@@ -105,10 +105,24 @@ benchmarks/
 
 ---
 
-## Author
+## Authors
 
-Dhanush Nallam
+<table>
+<tr>
+<td width="50%" valign="top">
 
-B.Tech Computer Science & Artificial Intelligence
-
+<strong>Dhanush Nallam</strong><br>
+B.Tech Computer Science & Artificial Intelligence<br>
 Amrita Vishwa Vidyapeetham
+
+</td>
+
+<td width="50%" valign="top">
+
+<strong>Gnana Deepika</strong><br>
+B.Tech Computer Science & Artificial Intelligence<br>
+Amrita Vishwa Vidyapeetham
+
+</td>
+</tr>
+</table>
